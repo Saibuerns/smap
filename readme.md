@@ -1,2 +1,2 @@
 # smap
-Smap is an event reservation api
+Smap (Save me a place) is an event reservation api
